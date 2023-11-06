@@ -12,9 +12,9 @@ Hello, my name is Matt and I am a software engineer who likes to have fun and be
 
 ### About Me
 - ✈ Originally from England, now living in the USA
-- 👨‍💻 Currently enjoying Next.js 13, Vector databases, and the OpenAI Embeddings API
+- 👨‍💻 Currently enjoying Next.js 14, Vector databases, and Azure AI Services
 - ⚽ In my free time, I enjoy hiking, camping, surfing, and football (Soccer)
-- 🐶 I own a Goldendoodle dog named Charles
+- 🐶 I own a Goldendoodle dog named Charles (long live the King!)
 
 ### Tech Stack & Tools
 
