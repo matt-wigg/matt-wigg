@@ -67,7 +67,7 @@ If you have any questions or just want to connect, feel free to reach out to me.
 You can find more information about me on my website.  
 
 <p align="left">
-<a href="https://linkedin.com/in/matt-wigg"><img src="https://img.shields.io/badge/Professional%3A-linkedin-blue"/></a><br>
 <a href="https://www.mattwigg.com"><img src="https://img.shields.io/badge/Personal%3A-website-orange"/></a><br>
+<a href="https://linkedin.com/in/matt-wigg"><img src="https://img.shields.io/badge/Professional%3A-linkedin-blue"/></a><br>
 <a href="https://www.instagram.com/_matt_wigg/"><img src="https://img.shields.io/badge/Social%3A-instagram-ff69b4"/></a><br>
 </p>
