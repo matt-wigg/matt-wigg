@@ -8,12 +8,12 @@
 - [Connect with Me](#connect-with-me)
 
 ### Introduction
-Hello, my name is Matt and I am a software engineer who likes to have fun and be productive. This is my README.md file where you can learn more about me.  
+Hello, my name is Matt, and I am a software engineer who likes to have fun and be productive. This is my README.md file where you can learn more about me.  
 
 ### About Me
 - ✈ Originally from England, now living in the USA
-- 👨‍💻 Currently enjoying Next.js 14, Vector databases, and Azure AI Services
-- ⚽ In my free time, I enjoy hiking, camping, surfing, and football (Soccer)
+- 👨‍💻 Currently enjoying Next.js, Python, and Cloud Solutions Architecture
+- ⚽ In my free time, I enjoy hiking, camping, gaming, and football (Soccer)
 - 🐶 I own a Goldendoodle dog named Charles (long live the King!)
 
 ### Tech Stack & Tools
@@ -69,5 +69,4 @@ You can find more information about me on my website.
 <p align="left">
 <a href="https://www.mattwigg.com"><img src="https://img.shields.io/badge/Personal%3A-website-orange"/></a><br>
 <a href="https://linkedin.com/in/matt-wigg"><img src="https://img.shields.io/badge/Professional%3A-linkedin-blue"/></a><br>
-<a href="https://www.instagram.com/_matt_wigg/"><img src="https://img.shields.io/badge/Social%3A-instagram-ff69b4"/></a><br>
 </p>
