@@ -12,7 +12,7 @@ Hello, my name is Matt, and I am a software engineer who likes to have fun and b
 
 ### About Me
 - ✈ Originally from England, now living in the USA
-- 👨‍💻 Currently enjoying Next.js, Python, and Cloud Solutions Architecture
+- 👨‍💻 Currently learning advanced AWS architecture, AI/ML engineering, and IaC automation
 - ⚽ In my free time, I enjoy hiking, camping, gaming, and football (Soccer)
 - 🐶 I own a Goldendoodle dog named Charles (long live the King!)
 
