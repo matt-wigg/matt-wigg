@@ -69,7 +69,7 @@ Hello, my name is Matt, and I am a software engineer who likes to have fun and b
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### Connect with me
+### Connect With Me
 
 If you have any questions or just want to connect, feel free to reach out to me.  
 You can find more information about me on my website.  
