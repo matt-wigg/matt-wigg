@@ -8,7 +8,7 @@
 - [Introduction](#introduction)
 - [About Me](#about-me)
 - [Tech Stack & Tools](#tech-stack--tools)
-- [Connect with Me](#connect-with-me)
+- [Connect With Me](#connect-with-me)
 
 ### Introduction
 Hello, my name is Matt, and I am a software engineer who likes to have fun and be productive. This is my README.md file where you can learn more about me.  
