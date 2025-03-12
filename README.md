@@ -1,6 +1,6 @@
 # matt-wigg - README.md
 
-> [!IMPORTANT]
+> [!NOTE]
 > I use an enterprise-managed account for all of my daily work activities.
 
 ## Table of Contents
