@@ -30,16 +30,23 @@ Here is a list of _some_ of the technologies & tools I've worked with:
 [![Azure](https://custom-icon-badges.demolab.com/badge/Azure-05122A?logo=msazure)](#)&nbsp;
 [![Babel](https://img.shields.io/badge/-Babel-05122A?style=flat&logo=babel)](#)&nbsp;
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)](#)&nbsp;
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-05122A?logo=openai&logoColor=74aa9c)](#)&nbsp;
+[![Claude](https://img.shields.io/badge/Claude-05122A?logo=claude&logoColor=D97757)](#)&nbsp;
 [![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)](#)&nbsp;
 [![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)](#)&nbsp;
+[![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-05122A?logo=deepseek&logoColor=4D6BFF)](#)&nbsp;
 [![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)](#)&nbsp;
 [![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)](#)&nbsp;
 [![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)](#)&nbsp;
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-05122A?logo=googlegemini&logoColor=886FBF)](#)&nbsp;
 [![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)](#)&nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github)](#)&nbsp;
+[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github-actions)](#)&nbsp;
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-05122A?logo=githubcopilot)](#)&nbsp;
 [![GNU Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)](#)&nbsp;
 [![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)](#)&nbsp;
 [![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)](#)&nbsp;
+[![Heroku](https://img.shields.io/badge/Heroku-05122A?logo=heroku&logoColor=430098)](#)&nbsp;
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-05122A?logo=huggingface&logoColor=FFD21E)](#)&nbsp;
 [![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)](#)&nbsp;
 [![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)](#)&nbsp;
 [![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins)](#)&nbsp;
@@ -64,16 +71,19 @@ Here is a list of _some_ of the technologies & tools I've worked with:
 [![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)](#)&nbsp;
 [![Salesforce](https://img.shields.io/badge/-Salesforce-05122A?style=flat&logo=salesforce)](#)&nbsp;
 [![ServiceNow](https://img.shields.io/badge/-ServiceNow-05122A?style=flat&logo=servicenow)](#)&nbsp;
-[![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack)](#)&nbsp;
+[![Slack](https://img.shields.io/badge/-Slack-05122A?style=flat&logo=slack&logoColor=4A154B)](#)&nbsp;
+[![Snowflake](https://img.shields.io/badge/Snowflake-05122A?logo=snowflake&logoColor=29B5E8)](#)&nbsp;
 [![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styledcomponents)](#)&nbsp;
 [![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)](#)&nbsp;
 [![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)](#)&nbsp;
 [![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)](#)&nbsp;
 [![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)](#)&nbsp;
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-05122A?logo=vsc)](#)&nbsp;
+[![v0](https://img.shields.io/badge/v0-05122A?logo=v0&logoColor=fff)](#)&nbsp;
 [![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)](#)&nbsp;
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-05122A?logo=windows11&logoColor=0078D6)](#)&nbsp;
 [![YAML](https://img.shields.io/badge/-YAML-05122A?style=flat&logo=yaml&logoColor=white)](#)&nbsp;
-[![Zod](https://img.shields.io/badge/-Zod-05122A?style=flat&logo=zod)](#)
+[![Zod](https://img.shields.io/badge/-Zod-05122A?style=flat&logo=zod)](#)&nbsp;
 
 ### Connect With Me
 
